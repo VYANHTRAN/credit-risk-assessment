@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imblearn # For SMOTE
+notebook # To run the Jupyter notebook
